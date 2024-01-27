@@ -34,3 +34,28 @@ git push
 ## o que é o arquivo readme md ?
 
 O arquivo README.md é um arquivo que é a porta de entrada do nosso repositorio, nele nos temos a apresentacao do repo e também informacoes sobre setup de ambiente e tecnologias.
+
+## o que sao branchs ?
+
+branchs sao ramificacoes de um mesmo codigo que permitem que duas ou mais pessoas trabalhem em versoes diferentes de um mesmo projeto.
+
+## o que é um merge ?
+
+Merge consiste na uniao de duas versoes diferentes de um mesmo codigo
+
+podendo ser duas versoes da mesma branchs
+duas branchs diferentes
+
+## como atualizar o repositório local com o repositorio remoto
+
+git pull
+
+## como criar uma nova branch
+
+git checkout -b (nome branch)
+
+## como alterntar entre branchs ?
+
+git checkout (nome da branch)
+
+
