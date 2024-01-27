@@ -54,8 +54,19 @@ git pull
 
 git checkout -b (nome branch)
 
-## como alterntar entre branchs ?
+## como alternar entre branchs ?
 
 git checkout (nome da branch)
+
+## como fazer pull de uma branch especifica
+
+git pull origin (nome branch)
+
+
+## como juntar duas branchs localmente
+
+git merge (nome da branch)
+
+
 
 
