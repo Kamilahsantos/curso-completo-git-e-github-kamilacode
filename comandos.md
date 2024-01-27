@@ -66,7 +66,7 @@ git pull origin (nome branch)
 ## como juntar duas branchs localmente
 
 git merge (nome da branch)
-
+vai dar conflito
 ## atencao
 
 nao crie duas branchs com o mesmo e aponte elas para a mesma origem, senao dará conflito
