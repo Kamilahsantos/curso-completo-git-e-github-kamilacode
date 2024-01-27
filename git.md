@@ -1,0 +1,1 @@
+Git é uma ferramenta de controle de versao criada pelo Linus torvalds que facilita o desenvolvimento paralelo de tarefas entre os times

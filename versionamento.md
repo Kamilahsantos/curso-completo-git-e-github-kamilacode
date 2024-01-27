@@ -1,0 +1,1 @@
+Versionamento de código é o conceito de podermos ter várias versoes de um mesmo código em máquinas em diferentes.
