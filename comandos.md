@@ -67,6 +67,10 @@ git pull origin (nome branch)
 
 git merge (nome da branch)
 
+## atencao
+
+nao crie duas branchs com o mesmo e aponte elas para a mesma origem, senao dará conflito
+
 
 
 
