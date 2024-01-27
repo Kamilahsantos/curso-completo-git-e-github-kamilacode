@@ -71,6 +71,6 @@ git merge (nome da branch)
 
 nao crie duas branchs com o mesmo e aponte elas para a mesma origem, senao dará conflito
 
-
+Esse commit é pra gerar um conflito (remoto)
 
 
